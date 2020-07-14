@@ -1,0 +1,21 @@
+{
+    "name": "lovely/request",
+    "description": "lovely request",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "unsal pisirgen",
+            "email": "unsalpisirgen23@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "8.5.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lovely\\": "src/",
+            "Test\\": "test/"
+        }
+    }
+}
