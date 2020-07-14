@@ -6,5 +6,5 @@ namespace Lovely;
 
 class Request
 {
-    
+
 }
